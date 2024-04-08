@@ -1,4 +1,4 @@
-#BL8064
+# BL8064
 
 Hi and welcome to the protein structure prediction exercise for the course [Methods in Molecular Life Science](https://www.su.se/english/search-courses-and-programmes/bl8064-1.684212).
 This exercise is about assessing the impact of mutations using protein structure prediction.
@@ -8,4 +8,4 @@ If mutations occur in the interaction interfaces - these networks can be perturb
 \
 Here we will assess the impact of mutations of **your choice** on proteins of **your choice** using protein structure prediction of interaction networks.
 \
-To start, [click this link](Colab) and follow the instructions.
+To start, [click this link](https://colab.research.google.com/github/patrickbryant1/BL8064/blob/main/BL8064.ipynb) and follow the instructions.
