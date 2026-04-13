@@ -8,4 +8,4 @@ If mutations occur in the interaction interfaces - these networks can be perturb
 \
 Here we will assess the impact of mutations of **your choice** on proteins of **your choice** using protein structure prediction of interaction networks.
 \
-To start, [click this link](https://colab.research.google.com/github/patrickbryant1/BL8064/blob/main/bl8064.ipynb) and follow the instructions.
+To start, [click this link](https://colab.research.google.com/github/patrickbryant1/AFProfile/blob/main/bl8064.ipynb) and follow the instructions.
